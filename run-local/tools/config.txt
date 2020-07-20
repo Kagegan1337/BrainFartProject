@@ -1,0 +1,13 @@
+# transport=MSCJava10
+transport=MscJna
+path=D:/
+# path=/media/user/cv TSE
+
+# TSE communication timeout, seconds (default: 5)
+timeout=5
+
+# delay after direct IO operations, milliseconds (default: 0)
+delay=0
+
+# size of direct IO read/write operations. 512 on most Windows platforms, 2048 on some Linux. Smaller is faster, increase on Exception. (default: 512)
+alignment=512

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e114e805-23de-4052-8645-9fdd7be6d224" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SBTlzO8Nqn4YpDQUWoLMTUXqqf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Ajax" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\OktoPOS\IdeaProjects\Designpatter - Examples\src\Ajax" />
+      <recent name="C:\Users\OktoPOS\IdeaProjects\Designpatter - Examples\src\subprocess" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\OktoPOS\IdeaProjects\Designpatter - Examples\run-local\tools" />
+      <recent name="C:\Users\OktoPOS\IdeaProjects\Designpatter - Examples\run-local" />
+    </key>
+  </component>
+  <component name="Regex">
+    <option name="pos1" value="218" />
+    <option name="pos2" value="218" />
+    <option name="pos3" value="162" />
+    <option name="pos4" value="444" />
+    <option name="pos5" value="162" />
+    <option name="autoUpdate" value="true" />
+    <option name="referenceOn" value="false" />
+    <option name="referencePos" value="0" />
+    <option name="showLabels" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MemTest">
+    <configuration name="AjaxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ajax.AjaxMain" />
+      <module name="Designpatter - Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ajax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EpochSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epoch.EpochSeconds" />
+      <module name="Designpatter - Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epoch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MemCheck.MemTest" />
+      <module name="Designpatter - Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MemCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MemCheck.MemoryCheck" />
+      <module name="Designpatter - Examples" />
+      <option name="VM_PARAMETERS" value="-Xms256m -Xmx512m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MemCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="argtest" />
+      <module name="Designpatter - Examples" />
+      <option name="PROGRAM_PARAMETERS" value="123 456 789" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="brainafk.main" />
+      <module name="Designpatter - Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="brainafk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.EpochSeconds" />
+      <item itemvalue="Application.AjaxMain" />
+      <item itemvalue="Application.MemoryCheck" />
+      <item itemvalue="Application.MemTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MemTest" />
+        <item itemvalue="Application.MemoryCheck" />
+        <item itemvalue="Application.AjaxMain" />
+        <item itemvalue="Application.EpochSeconds" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e114e805-23de-4052-8645-9fdd7be6d224" name="Default Changelist" comment="" />
+      <created>1566453686880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566453686880</updated>
+      <workItem from="1566453690398" duration="2359000" />
+      <workItem from="1567604978600" duration="2311000" />
+      <workItem from="1567748595589" duration="595000" />
+      <workItem from="1568092386238" duration="589000" />
+      <workItem from="1568110946438" duration="3866000" />
+      <workItem from="1568236002433" duration="4242000" />
+      <workItem from="1571036147763" duration="2000" />
+      <workItem from="1572851200373" duration="3195000" />
+      <workItem from="1572886577077" duration="2903000" />
+      <workItem from="1572930055685" duration="673000" />
+      <workItem from="1573456425476" duration="9363000" />
+      <workItem from="1573481703374" duration="1463000" />
+      <workItem from="1573540608695" duration="105000" />
+      <workItem from="1573548336627" duration="4990000" />
+      <workItem from="1573554558668" duration="1406000" />
+      <workItem from="1573625477141" duration="302000" />
+      <workItem from="1573740693298" duration="2260000" />
+      <workItem from="1573811343743" duration="5147000" />
+      <workItem from="1574059318699" duration="6403000" />
+      <workItem from="1574143972490" duration="276000" />
+      <workItem from="1574167942387" duration="4043000" />
+      <workItem from="1574172435984" duration="715000" />
+      <workItem from="1574198322756" duration="2387000" />
+      <workItem from="1576928174162" duration="357000" />
+      <workItem from="1577795064150" duration="2610000" />
+      <workItem from="1577945947724" duration="3319000" />
+      <workItem from="1578299497229" duration="853000" />
+      <workItem from="1578381333460" duration="604000" />
+      <workItem from="1579248016067" duration="597000" />
+      <workItem from="1579515174292" duration="868000" />
+      <workItem from="1579586719143" duration="70000" />
+      <workItem from="1579593284725" duration="4687000" />
+      <workItem from="1579673529110" duration="18000" />
+      <workItem from="1579773219008" duration="3008000" />
+      <workItem from="1579845267082" duration="831000" />
+      <workItem from="1581413713113" duration="2092000" />
+      <workItem from="1581918242554" duration="1298000" />
+      <workItem from="1582037281644" duration="333000" />
+      <workItem from="1582093481402" duration="1365000" />
+      <workItem from="1582179358499" duration="3895000" />
+      <workItem from="1583940559753" duration="767000" />
+      <workItem from="1583995082162" duration="42000" />
+      <workItem from="1586160013109" duration="7778000" />
+      <workItem from="1586239757244" duration="15000" />
+      <workItem from="1587033653127" duration="641000" />
+      <workItem from="1591192992699" duration="1164000" />
+      <workItem from="1591249772853" duration="4000000" />
+      <workItem from="1592212923007" duration="2484000" />
+      <workItem from="1592902613558" duration="1531000" />
+      <workItem from="1592910385385" duration="159000" />
+      <workItem from="1593070869771" duration="1141000" />
+      <workItem from="1593149185063" duration="1794000" />
+      <workItem from="1593438121144" duration="1491000" />
+      <workItem from="1593495132124" duration="9192000" />
+      <workItem from="1593591162874" duration="1428000" />
+      <workItem from="1593665918011" duration="338000" />
+      <workItem from="1594274738391" duration="2434000" />
+      <workItem from="1594277336730" duration="2109000" />
+      <workItem from="1594284342731" duration="3626000" />
+      <workItem from="1594290049621" duration="594000" />
+      <workItem from="1595238320014" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CLI_parser/ParserMain.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CLI_parser/ParserMain.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/userlogs/RegParser.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegExLogging/LogEntryParser.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HexConverter/Converter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

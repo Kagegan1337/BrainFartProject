@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-cli-1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/JavaFrameworks/commons-cli-1.4-bin/commons-cli-1.4/commons-cli-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/cashdesk_lib/cc_libs/joda-time-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

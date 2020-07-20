@@ -1,0 +1,1238 @@
+2019-11-16 10:56:21 INFO initial Log
+2019-11-16 10:56:24 INFO SYSTEM - NO USER: Cashdesk Version: 5.43.0
+2019-11-16 10:56:33 INFO SYSTEM - NO USER: Preventing RFID reads for: wait for target handler registration
+2019-11-16 10:56:33 INFO SYSTEM - NO USER: Stop preventing RFID reads for: wait for target handler registration
+2019-11-16 10:56:36 INFO SYSTEM - NO USER: initialize default receipt
+2019-11-16 10:56:36 INFO SYSTEM - NO USER - -1.-1(): create new receipt
+2019-11-16 11:07:26 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Smakai, Giolis
+2019-11-16 11:07:28 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 11:07:28 INFO Smakai, Giolis: Logged in
+2019-11-16 11:07:28 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 11:07:28 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 11:07:29 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 11:07:37 INFO Smakai, Giolis - 3000.1(AAAE): create new receipt
+2019-11-16 11:07:42 INFO Smakai, Giolis - 3000.1(AAAE): add [1] article [PEspresso doppio]([article-1197]) - [Inhouse] - [STANDARD]
+2019-11-16 11:07:43 INFO Smakai, Giolis - 3000.1(AAAE): add [1] article [PEspresso doppio]([article-1197]) - [Inhouse] - [STANDARD]
+2019-11-16 11:07:43 INFO Smakai, Giolis - 3000.1(AAAE): add [1] article [PEspresso doppio]([article-1197]) - [Inhouse] - [STANDARD]
+2019-11-16 11:07:50 INFO Smakai, Giolis - 3000.1(AAAE): add [1] article [PCafe Americano]([article-1199]) - [Inhouse] - [STANDARD]
+2019-11-16 11:07:54 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 11:07:54 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 11:07:54 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 12:09:58 INFO Smakai, Giolis: Logged out.
+2019-11-16 12:09:58 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 12:12:42 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Sohn, Stephanie
+2019-11-16 12:12:44 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 12:12:44 INFO Sohn, Stephanie: Logged in
+2019-11-16 12:12:44 INFO Sohn, Stephanie: initialize default receipt
+2019-11-16 12:12:45 INFO Sohn, Stephanie - -1.-1(): create new receipt
+2019-11-16 12:12:46 INFO Sohn, Stephanie: Show open keys dialog.
+2019-11-16 12:12:51 INFO Sohn, Stephanie - 3000.1(AAAV): create new receipt
+2019-11-16 12:12:57 INFO Sohn, Stephanie - 3000.1(AAAV): add [1] article [Brezel]([article-460]) - [Inhouse] - [STANDARD]
+2019-11-16 12:13:00 INFO Sohn, Stephanie: Show open keys dialog.
+2019-11-16 12:13:00 INFO Sohn, Stephanie: initialize default receipt
+2019-11-16 12:13:00 INFO Sohn, Stephanie - -1.-1(): create new receipt
+2019-11-16 12:13:01 INFO Sohn, Stephanie: Logged out.
+2019-11-16 12:13:01 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 13:30:05 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Smakai, Giolis
+2019-11-16 13:30:07 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 13:30:07 INFO Smakai, Giolis: Logged in
+2019-11-16 13:30:07 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 13:30:07 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 13:30:09 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 13:30:13 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 13:30:21 INFO Smakai, Giolis - 200.1(AABZ): create new receipt
+2019-11-16 13:30:32 INFO Smakai, Giolis - 200.1(AABZ): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 13:30:40 INFO Smakai, Giolis - 200.1(AABZ): add [1] article [Fritz Limo Orange]([article-1293]) - [Inhouse] - [STANDARD]
+2019-11-16 13:30:41 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 13:30:41 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 13:30:41 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 13:30:44 INFO Smakai, Giolis: Logged out.
+2019-11-16 13:30:44 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 13:42:39 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Sohn, Stephanie
+2019-11-16 13:42:41 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 13:42:41 INFO Sohn, Stephanie: Logged in
+2019-11-16 13:42:41 INFO Sohn, Stephanie: initialize default receipt
+2019-11-16 13:42:41 INFO Sohn, Stephanie - -1.-1(): create new receipt
+2019-11-16 13:42:42 INFO Sohn, Stephanie: Show open keys dialog.
+2019-11-16 13:42:45 INFO Sohn, Stephanie - 31.8(AABL): Open receipt.
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AABL): User confirmed cancellation of Knusperschnitzel Snack
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): book cash: to pay: [650] tip: [0]
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): Added guest amount: [1].
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): book receipt [12-1336] as [INSTANT_CANCELLATION]
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI):   - [1][Knusperschnitzel Snack]([article-929])
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): finish receipt
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): print bon of [12-1336]
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): cancel receipt [12-1336]
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): book receipt [12-1337] as [INSTANT_CANCELLATION]
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI):   - [1][Knusperschnitzel Snack]([article-929])
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): finish receipt
+2019-11-16 13:42:51 INFO Sohn, Stephanie - 31.8(AACI): print bon of [12-1337]
+2019-11-16 13:42:53 INFO Sohn, Stephanie: Show open keys dialog.
+2019-11-16 13:42:53 INFO Sohn, Stephanie: initialize default receipt
+2019-11-16 13:42:54 INFO Sohn, Stephanie - -1.-1(): create new receipt
+2019-11-16 13:42:54 INFO Sohn, Stephanie: Logged out.
+2019-11-16 13:42:54 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 13:42:59 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Smakai, Giolis
+2019-11-16 13:43:00 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 13:43:00 INFO Smakai, Giolis: Logged in
+2019-11-16 13:43:00 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 13:43:00 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 13:43:02 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 13:43:04 INFO Smakai, Giolis - 200.1(AABZ): Open receipt.
+2019-11-16 13:44:08 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 13:44:08 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 13:44:08 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 13:45:26 INFO Smakai, Giolis: Open cash drawer.
+2019-11-16 13:46:03 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 13:46:10 INFO Smakai, Giolis: Open cash drawer.
+2019-11-16 13:46:22 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 13:46:30 INFO Smakai, Giolis: Logged out.
+2019-11-16 13:46:30 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 13:46:43 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Derakshan, Amir
+2019-11-16 13:46:47 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 13:46:47 INFO Derakshan, Amir: Logged in
+2019-11-16 13:46:47 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 13:46:47 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 13:46:48 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 13:46:50 INFO Derakshan, Amir - 200.1(AABZ): Open receipt.
+2019-11-16 13:46:51 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 13:46:51 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 13:46:51 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 13:46:52 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 13:46:54 INFO Derakshan, Amir - 200.1(AABZ): Open receipt.
+2019-11-16 13:46:57 INFO Derakshan, Amir - 200.1(AABZ): Button instantCash on BookingPanel pressed.
+2019-11-16 13:46:57 INFO Derakshan, Amir - 200.1(AABZ): Started instant cash payment.
+2019-11-16 13:46:57 INFO Derakshan, Amir - 200.1(AABZ): book cash: to pay: [650] tip: [0]
+2019-11-16 13:47:00 INFO Derakshan, Amir - 200.1(AABZ): Added guest amount: [2].
+2019-11-16 13:47:00 INFO Derakshan, Amir - 200.1(AABZ): book receipt [12-1338] as [BOOKING]
+2019-11-16 13:47:00 INFO Derakshan, Amir - 200.1(AABZ):   - [1][Augustiner Hell 0,25l]([article-1094])
+2019-11-16 13:47:00 INFO Derakshan, Amir - 200.1(AABZ):   - [1][Fritz Limo Orange]([article-1293])
+2019-11-16 13:47:00 INFO Derakshan, Amir - 200.1(AABZ): finish receipt
+2019-11-16 13:47:01 INFO Derakshan, Amir - 200.1(AABZ): print bon of [12-1338]
+2019-11-16 13:47:08 INFO Derakshan, Amir - 200.1(AABZ): Exited instant payment via OK button.
+2019-11-16 13:47:08 INFO Derakshan, Amir - 200.1(AABZ): finalize receipt
+2019-11-16 13:47:08 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 13:47:08 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 13:47:09 INFO Derakshan, Amir: Logged out.
+2019-11-16 13:47:09 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 14:31:55 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Smakai, Giolis
+2019-11-16 14:31:56 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 14:31:56 INFO Smakai, Giolis: Logged in
+2019-11-16 14:31:56 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 14:31:56 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 14:33:33 INFO Smakai, Giolis: Logged out.
+2019-11-16 14:33:33 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 16:16:50 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Derakshan, Amir
+2019-11-16 16:16:52 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 16:16:52 INFO Derakshan, Amir: Logged in
+2019-11-16 16:16:52 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 16:16:52 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 16:16:53 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 16:16:57 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 16:16:59 INFO Derakshan, Amir - 3000.1(AAAV): Open receipt.
+2019-11-16 16:17:04 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCappuccino]([article-1187]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:05 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCappuccino]([article-1187]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:06 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PEspresso]([article-1196]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:07 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PMilchkaffee]([article-1200]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:07 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PMilchkaffee]([article-1200]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:08 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCafe Americano]([article-1199]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:08 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCafe Americano]([article-1199]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:09 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCafe Americano]([article-1199]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:09 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCafe Americano]([article-1199]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:09 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCafe Americano]([article-1199]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:12 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCappuccino]([article-1187]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:14 INFO Derakshan, Amir - 3000.1(AAAV): add [1] article [PCappuccino]([article-1187]) - [Inhouse] - [STANDARD]
+2019-11-16 16:17:17 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 16:17:17 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 16:17:17 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 16:17:19 INFO Derakshan, Amir: Logged out.
+2019-11-16 16:17:19 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 16:47:28 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 16:47:29 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 16:47:29 INFO Ademi, Sofia: Logged in
+2019-11-16 16:47:29 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 16:47:29 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 16:47:30 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 16:47:34 INFO Ademi, Sofia - 200.1(AAIR): create new receipt
+2019-11-16 16:47:38 INFO Ademi, Sofia - 200.1(AAIR): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 16:47:38 INFO Ademi, Sofia - 200.1(AAIR): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 16:47:39 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 16:47:39 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 16:47:39 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 16:47:40 INFO Ademi, Sofia: Logged out.
+2019-11-16 16:47:40 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 16:47:55 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Smakai, Giolis
+2019-11-16 16:47:56 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 16:47:56 INFO Smakai, Giolis: Logged in
+2019-11-16 16:47:56 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 16:47:56 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 16:47:59 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 16:48:09 INFO Smakai, Giolis: Logged out.
+2019-11-16 16:48:09 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 16:53:35 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Smakai, Giolis
+2019-11-16 16:53:37 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 16:53:37 INFO Smakai, Giolis: Logged in
+2019-11-16 16:53:37 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 16:53:37 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 16:53:39 INFO Smakai, Giolis: Open cash drawer.
+2019-11-16 16:53:52 INFO Smakai, Giolis: Logged out.
+2019-11-16 16:53:52 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 17:00:46 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Derakshan, Amir
+2019-11-16 17:00:47 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 17:00:47 INFO Derakshan, Amir: Logged in
+2019-11-16 17:00:47 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 17:00:47 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 17:00:54 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 17:00:57 INFO Derakshan, Amir - 200.1(AAIR): Open receipt.
+2019-11-16 17:01:01 INFO Derakshan, Amir - 200.1(AAIR): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 17:01:01 INFO Derakshan, Amir - 200.1(AAIR): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 17:01:02 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 17:01:02 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 17:01:02 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 17:02:45 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 17:02:47 INFO Derakshan, Amir - 200.1(AAIR): Open receipt.
+2019-11-16 17:02:54 INFO Derakshan, Amir - 200.1(AAIR): add [1] article [Chili Schnitzel Snack]([article-452]) - [Inhouse] - [STANDARD]
+2019-11-16 17:02:54 INFO Derakshan, Amir: Preventing RFID reads for: SideOrderDialog
+2019-11-16 17:02:59 INFO Derakshan, Amir: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 17:02:59 INFO Derakshan, Amir - 200.1(AAIR): Add side orders to article [article-452].
+2019-11-16 17:02:59 INFO Derakshan, Amir - 200.1(AAIR): Add side order [Haussoße Heimwerk]([article-221]).
+2019-11-16 17:03:17 INFO Derakshan, Amir - 200.1(AAIR): add [1] article [Brezel mit Aufstrich]([article-1257]) - [Inhouse] - [STANDARD]
+2019-11-16 17:03:29 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 17:03:30 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 17:03:30 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 17:03:32 INFO Derakshan, Amir: Logged out.
+2019-11-16 17:03:32 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 17:17:44 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Falter, Frank-Oliver
+2019-11-16 17:17:46 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 17:17:46 INFO Falter, Frank-Oliver: Logged in
+2019-11-16 17:17:46 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 17:17:46 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 17:17:48 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 17:17:49 INFO Falter, Frank-Oliver - 3000.1(AAAV): Open receipt.
+2019-11-16 17:17:58 INFO Falter, Frank-Oliver - 3000.1(AAAV): add [1] article [Bayerischer Spritz]([article-123]) - [Inhouse] - [STANDARD]
+2019-11-16 17:17:58 INFO Falter, Frank-Oliver - 3000.1(AAAV): add [1] article [Bayerischer Spritz]([article-123]) - [Inhouse] - [STANDARD]
+2019-11-16 17:17:59 INFO Falter, Frank-Oliver - 3000.1(AAAV): add [1] article [Bayerischer Spritz]([article-123]) - [Inhouse] - [STANDARD]
+2019-11-16 17:18:00 INFO Falter, Frank-Oliver - 3000.1(AAAV): add [1] article [Bayerischer Spritz]([article-123]) - [Inhouse] - [STANDARD]
+2019-11-16 17:18:13 INFO Falter, Frank-Oliver - 3000.1(AAAV): add [1] article [Rosa Rauschen]([article-120]) - [Inhouse] - [STANDARD]
+2019-11-16 17:18:14 INFO Falter, Frank-Oliver - 3000.1(AAAV): add [1] article [Rosa Rauschen]([article-120]) - [Inhouse] - [STANDARD]
+2019-11-16 17:18:21 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 17:18:21 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 17:18:21 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 17:18:23 INFO Falter, Frank-Oliver: Logged out.
+2019-11-16 17:18:23 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 17:31:09 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Smakai, Giolis
+2019-11-16 17:31:10 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 17:31:10 INFO Smakai, Giolis: Logged in
+2019-11-16 17:31:10 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 17:31:10 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 17:31:11 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 17:31:18 INFO Smakai, Giolis - 30.8(AAIU): Open receipt.
+2019-11-16 17:31:22 INFO Smakai, Giolis - 30.8(AAIU): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 17:31:23 INFO Smakai, Giolis - 30.8(AAIU): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 17:31:24 INFO Smakai, Giolis: Show open keys dialog.
+2019-11-16 17:31:25 INFO Smakai, Giolis: initialize default receipt
+2019-11-16 17:31:25 INFO Smakai, Giolis - -1.-1(): create new receipt
+2019-11-16 17:33:04 INFO Smakai, Giolis: Logged out.
+2019-11-16 17:33:04 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 17:35:57 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Derakshan, Amir
+2019-11-16 17:35:58 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 17:35:58 INFO Derakshan, Amir: Logged in
+2019-11-16 17:35:58 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 17:35:58 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 17:36:02 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 17:36:05 INFO Derakshan, Amir - 200.1(AAIR): Open receipt.
+2019-11-16 17:36:09 INFO Derakshan, Amir - 200.1(AAIR): Button payment on BookingPanel pressed.
+2019-11-16 17:36:09 INFO Derakshan, Amir - 200.1(AAIR): Opened payment panel.
+2019-11-16 17:36:12 INFO Derakshan, Amir - 200.1(AAIR): Printed interim bill.
+2019-11-16 17:36:40 INFO Derakshan, Amir: Button-Icon CARD pressed
+2019-11-16 17:37:04 INFO Derakshan, Amir - 200.1(AAIR): book card: to pay: [25,5] tip: [0]
+2019-11-16 17:37:04 INFO Derakshan, Amir - 200.1(AAIR): Added guest amount: [1].
+2019-11-16 17:37:06 INFO Derakshan, Amir - 200.1(AAIR): Button Payment on PaymentPanel pressed.
+2019-11-16 17:37:08 INFO Derakshan, Amir - 200.1(AAIR): Added guest amount: [2].
+2019-11-16 17:37:08 INFO Derakshan, Amir - 200.1(AAIR): book receipt [12-1339] as [BOOKING]
+2019-11-16 17:37:08 INFO Derakshan, Amir - 200.1(AAIR):   - [2][Augustiner Hell 0,25l]([article-1094])
+2019-11-16 17:37:08 INFO Derakshan, Amir - 200.1(AAIR):   - [1][Brezel mit Aufstrich]([article-1257])
+2019-11-16 17:37:08 INFO Derakshan, Amir - 200.1(AAIR):   - [2][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 17:37:08 INFO Derakshan, Amir - 200.1(AAIR):   - [1][Chili Schnitzel Snack]([article-452])
+2019-11-16 17:37:08 INFO Derakshan, Amir - 200.1(AAIR):   - [1][Haussoße Heimwerk]([article-221])
+2019-11-16 17:37:08 INFO Derakshan, Amir - 200.1(AAIR): finish receipt
+2019-11-16 17:37:09 INFO Derakshan, Amir - 200.1(AAIR): print bon of [12-1339]
+2019-11-16 17:42:10 INFO Derakshan, Amir - 200.1(AAIR): finalize receipt
+2019-11-16 17:42:10 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 17:42:10 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 17:42:12 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 17:42:17 INFO Derakshan, Amir: Logged out.
+2019-11-16 17:42:17 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 18:21:33 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 18:21:37 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 18:21:37 INFO Ademi, Sofia: Logged in
+2019-11-16 18:21:37 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 18:21:37 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 18:21:39 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 18:21:46 INFO Ademi, Sofia - 30.3(AANN): create new receipt
+2019-11-16 18:21:52 INFO Ademi, Sofia - 30.3(AANN): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 18:21:53 INFO Ademi, Sofia - 30.3(AANN): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 18:21:58 INFO Ademi, Sofia - 30.3(AANN): add [1] article [Coca Cola 0,33l]([article-1290]) - [Inhouse] - [STANDARD]
+2019-11-16 18:21:59 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 18:21:59 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 18:21:59 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 18:22:00 INFO Ademi, Sofia: Logged out.
+2019-11-16 18:22:00 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 18:34:58 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 18:35:00 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 18:35:00 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 18:35:00 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 18:35:00 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 18:35:24 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:35:30 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 18:35:30 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 18:35:31 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 18:35:33 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 18:35:33 INFO Ademi, Sofia: Logged in
+2019-11-16 18:35:33 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 18:35:33 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 18:35:34 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 18:35:41 INFO Ademi, Sofia - 200.1(AAOP): create new receipt
+2019-11-16 18:35:55 INFO Ademi, Sofia - 200.1(AAOP): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 18:35:56 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 18:35:57 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 18:35:57 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 18:35:58 INFO Ademi, Sofia: Logged out.
+2019-11-16 18:35:58 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 18:37:58 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 18:37:59 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 18:37:59 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 18:37:59 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 18:37:59 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 18:40:06 INFO Öztatiklier, Cemil - -1.-1(): add [1] article [Grüner Tee mit Lim. Ingw.]([article-99]) - [Inhouse] - [STANDARD]
+2019-11-16 18:40:09 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:41:30 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:41:44 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:42:04 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:42:21 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:44:44 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:45:20 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:45:29 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:45:38 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 18:45:38 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 18:45:46 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:45:51 INFO Öztatiklier, Cemil - 200.1(AAOP): Open receipt.
+2019-11-16 18:45:56 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:45:56 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 18:45:56 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 18:45:57 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 18:45:57 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 18:46:08 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 18:46:10 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 18:46:10 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 18:46:10 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 18:46:10 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 18:47:02 INFO Öztatiklier, Cemil - -1.-1(): add [1] article [Vegi-Burger]([article-1260]) - [Inhouse] - [STANDARD]
+2019-11-16 18:47:02 INFO Öztatiklier, Cemil: Preventing RFID reads for: SideOrderDialog
+2019-11-16 18:47:30 INFO Öztatiklier, Cemil - -1.-1(): Add side orders to article [article-1260].
+2019-11-16 18:47:41 INFO Öztatiklier, Cemil - -1.-1(): add [1] article [Vegi-Burger]([article-1260]) - [Inhouse] - [STANDARD]
+2019-11-16 18:47:41 INFO Öztatiklier, Cemil: Preventing RFID reads for: SideOrderDialog
+2019-11-16 18:47:53 INFO Öztatiklier, Cemil: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 18:47:53 INFO Öztatiklier, Cemil - -1.-1(): Add side orders to article [article-1260].
+2019-11-16 18:47:53 INFO Öztatiklier, Cemil - -1.-1(): Add side order [Süsskartoffel- Pommes]([article-528]).
+2019-11-16 18:47:53 INFO Öztatiklier, Cemil - -1.-1(): Add side order [Beilagensalat]([article-237]).
+2019-11-16 18:48:09 INFO Öztatiklier, Cemil - -1.-1(): add [1] article [Spinatknödel Snack]([article-468]) - [Inhouse] - [STANDARD]
+2019-11-16 18:48:09 INFO Öztatiklier, Cemil: Preventing RFID reads for: SideOrderDialog
+2019-11-16 18:48:27 INFO Öztatiklier, Cemil: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 18:48:27 INFO Öztatiklier, Cemil - -1.-1(): Add side orders to article [article-468].
+2019-11-16 18:48:27 INFO Öztatiklier, Cemil - -1.-1(): Add side order [Heißes Gemüse Beiwerk]([article-240]).
+2019-11-16 18:48:27 INFO Öztatiklier, Cemil - -1.-1(): Add side order [Kartoffelsalat]([article-234]).
+2019-11-16 18:48:49 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:50:03 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 18:50:03 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 18:50:07 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:52:10 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 18:52:21 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 18:52:21 INFO SYSTEM - NO USER: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 18:52:21 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:01:45 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 19:01:52 INFO SYSTEM - NO USER: LoginPanel: User cancelled login.
+2019-11-16 19:11:18 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Falter, Frank-Oliver
+2019-11-16 19:11:20 INFO SYSTEM - NO USER: LoginPanel: User inputted wrong PIN.
+2019-11-16 19:15:50 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 19:15:51 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:15:51 INFO Ademi, Sofia: Logged in
+2019-11-16 19:15:51 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 19:15:51 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 19:15:53 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 19:15:57 INFO Ademi, Sofia - 200.2(AARV): create new receipt
+2019-11-16 19:16:01 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 19:16:01 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 19:16:02 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 19:16:03 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 19:16:04 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 19:16:04 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 19:16:05 INFO Ademi, Sofia: Logged out.
+2019-11-16 19:16:05 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:20:16 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 19:20:17 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:20:17 INFO Ademi, Sofia: Logged in
+2019-11-16 19:20:17 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 19:20:17 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 19:20:19 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 19:20:23 INFO Ademi, Sofia - 200.2(AARV): Open receipt.
+2019-11-16 19:20:30 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Schnitzel-Burger Schwein]([article-1245]) - [Inhouse] - [STANDARD]
+2019-11-16 19:20:30 INFO Ademi, Sofia: Preventing RFID reads for: SideOrderDialog
+2019-11-16 19:20:34 INFO Ademi, Sofia - 200.2(AARV): Add side orders to article [article-1245].
+2019-11-16 19:20:38 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Vegi-Burger]([article-1260]) - [Inhouse] - [STANDARD]
+2019-11-16 19:20:38 INFO Ademi, Sofia: Preventing RFID reads for: SideOrderDialog
+2019-11-16 19:20:46 INFO Ademi, Sofia: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 19:20:46 INFO Ademi, Sofia - 200.2(AARV): Add side orders to article [article-1260].
+2019-11-16 19:20:46 INFO Ademi, Sofia - 200.2(AARV): Add side order [Süsskartoffel- Pommes]([article-528]).
+2019-11-16 19:20:57 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Spinatknödel Mahl]([article-469]) - [Inhouse] - [STANDARD]
+2019-11-16 19:20:57 INFO Ademi, Sofia: Preventing RFID reads for: SideOrderDialog
+2019-11-16 19:20:59 INFO Ademi, Sofia: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 19:20:59 INFO Ademi, Sofia - 200.2(AARV): Add side orders to article [article-469].
+2019-11-16 19:21:03 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Eintopf Mahl]([article-1113]) - [Inhouse] - [STANDARD]
+2019-11-16 19:21:05 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 19:21:05 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 19:21:05 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 19:21:07 INFO Ademi, Sofia: Logged out.
+2019-11-16 19:21:07 INFO SYSTEM - NO USER: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 19:21:07 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:22:37 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 19:22:38 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:22:38 INFO Ademi, Sofia: Logged in
+2019-11-16 19:22:38 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 19:22:38 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 19:22:40 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 19:22:44 INFO Ademi, Sofia - 200.3(AASI): create new receipt
+2019-11-16 19:22:49 INFO Ademi, Sofia - 200.3(AASI): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 19:22:50 INFO Ademi, Sofia - 200.3(AASI): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 19:22:51 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 19:22:51 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 19:22:52 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 19:22:53 INFO Ademi, Sofia: Logged out.
+2019-11-16 19:22:53 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:23:18 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Derakshan, Amir
+2019-11-16 19:23:20 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:23:20 INFO Derakshan, Amir: Logged in
+2019-11-16 19:23:20 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 19:23:20 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 19:23:22 INFO Derakshan, Amir: Show open keys dialog.
+2019-11-16 19:23:28 INFO Derakshan, Amir - 200.3(AASI): Open receipt.
+2019-11-16 19:23:33 INFO Derakshan, Amir - 200.3(AASI): Button payment on BookingPanel pressed.
+2019-11-16 19:23:33 INFO Derakshan, Amir - 200.3(AASI): Opened payment panel.
+2019-11-16 19:23:36 INFO Derakshan, Amir - 200.3(AASI): Button Payment on PaymentPanel pressed.
+2019-11-16 19:23:36 INFO Derakshan, Amir - 200.3(AASI): book cash: to pay: [600] tip: [0]
+2019-11-16 19:23:38 INFO Derakshan, Amir - 200.3(AASI): Added guest amount: [2].
+2019-11-16 19:23:38 INFO Derakshan, Amir - 200.3(AASI): book receipt [12-1340] as [BOOKING]
+2019-11-16 19:23:38 INFO Derakshan, Amir - 200.3(AASI):   - [2][Augustiner Hell 0,25l]([article-1094])
+2019-11-16 19:23:38 INFO Derakshan, Amir - 200.3(AASI): finish receipt
+2019-11-16 19:23:39 INFO Derakshan, Amir - 200.3(AASI): print bon of [12-1340]
+2019-11-16 19:23:52 INFO Derakshan, Amir - 200.3(AASI): finalize receipt
+2019-11-16 19:23:52 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 19:23:52 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 19:27:13 INFO Derakshan, Amir: Logged out.
+2019-11-16 19:27:13 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:27:14 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 19:27:15 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:27:16 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 19:27:16 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 19:27:16 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 19:27:20 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 19:27:50 INFO Öztatiklier, Cemil - 200.2(AARV): Open receipt.
+2019-11-16 19:27:55 INFO Öztatiklier, Cemil - 200.2(AARV): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 19:27:56 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 19:27:57 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 19:27:57 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 19:27:59 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 19:27:59 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:30:41 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Derakshan, Amir
+2019-11-16 19:30:42 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:30:42 INFO Derakshan, Amir: Logged in
+2019-11-16 19:30:42 INFO Derakshan, Amir: initialize default receipt
+2019-11-16 19:30:42 INFO Derakshan, Amir - -1.-1(): create new receipt
+2019-11-16 19:30:45 INFO Derakshan, Amir: Do cashier balance.
+2019-11-16 19:30:51 INFO Derakshan, Amir: Logged out.
+2019-11-16 19:30:51 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:46:06 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 19:46:08 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:46:08 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 19:46:08 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 19:46:08 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 19:46:17 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 19:46:17 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:46:19 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 19:46:20 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:46:20 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 19:46:20 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 19:46:20 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 19:46:28 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 19:48:14 INFO Öztatiklier, Cemil - 200.1(AAOP): Open receipt.
+2019-11-16 19:48:31 INFO Öztatiklier, Cemil - 200.1(AAOP): add [1] article [Killepitsch 2cl]([article-1284]) - [Inhouse] - [STANDARD]
+2019-11-16 19:48:32 INFO Öztatiklier, Cemil - 200.1(AAOP): add [1] article [Killepitsch 2cl]([article-1284]) - [Inhouse] - [STANDARD]
+2019-11-16 19:48:35 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 19:48:35 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 19:48:35 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 19:49:26 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 19:49:34 INFO Öztatiklier, Cemil - 200.1(AAOP): Open receipt.
+2019-11-16 19:49:44 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 19:49:45 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 19:49:45 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 19:50:02 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 19:50:03 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:50:03 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 19:50:05 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:50:05 INFO Ademi, Sofia: Logged in
+2019-11-16 19:50:05 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 19:50:05 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 19:50:07 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 19:50:11 INFO Ademi, Sofia - 200.1(AAOP): Open receipt.
+2019-11-16 19:50:14 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 19:50:14 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 19:50:14 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 19:50:15 INFO Ademi, Sofia: Logged out.
+2019-11-16 19:50:15 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:58:27 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 19:58:29 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:58:29 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 19:58:29 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 19:58:29 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 19:58:32 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 19:58:39 INFO Öztatiklier, Cemil - 200.1(AAOP): Open receipt.
+2019-11-16 19:58:45 INFO Öztatiklier, Cemil - 200.1(AAOP): Button instantCash on BookingPanel pressed.
+2019-11-16 19:58:45 INFO Öztatiklier, Cemil - 200.1(AAOP): Started instant cash payment.
+2019-11-16 19:58:45 INFO Öztatiklier, Cemil - 200.1(AAOP): book cash: to pay: [4.400] tip: [0]
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP): Added guest amount: [2].
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP): book receipt [12-1341] as [BOOKING]
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [1][Vegi-Burger]([article-1260])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [1][Süsskartoffel- Pommes]([article-528])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [1][Beilagensalat]([article-237])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [2][Killepitsch 2cl]([article-1284])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [1][Spinatknödel Snack]([article-468])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [1][Heißes Gemüse Beiwerk]([article-240])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [1][Kartoffelsalat]([article-234])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [1][Grüner Tee mit Lim. Ingw.]([article-99])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP):   - [1][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 19:58:48 INFO Öztatiklier, Cemil - 200.1(AAOP): finish receipt
+2019-11-16 19:58:50 INFO Öztatiklier, Cemil - 200.1(AAOP): print bon of [12-1341]
+2019-11-16 19:58:53 INFO Öztatiklier, Cemil - 200.1(AAOP): Printed bon.
+2019-11-16 19:59:04 INFO Öztatiklier, Cemil - 200.1(AAOP): Exited instant payment to FinalizePanel
+2019-11-16 19:59:54 INFO Öztatiklier, Cemil - 200.1(AAOP): finalize receipt
+2019-11-16 19:59:54 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 19:59:54 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 19:59:56 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 19:59:56 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 19:59:58 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Falter, Frank-Oliver
+2019-11-16 19:59:59 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 19:59:59 INFO Falter, Frank-Oliver: Logged in
+2019-11-16 19:59:59 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 19:59:59 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 20:00:02 INFO Falter, Frank-Oliver: Open receipt list.
+2019-11-16 20:00:06 INFO Falter, Frank-Oliver - 200.1(AAOP): Cancel and put all items into cart.
+2019-11-16 20:00:06 INFO Falter, Frank-Oliver - 200.1(AAOP): cancel receipt [12-1341]
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP): book receipt [12-1342] as [CANCELLATION]
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [1][Vegi-Burger]([article-1260])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [1][Süsskartoffel- Pommes]([article-528])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [1][Beilagensalat]([article-237])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [1][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [1][Spinatknödel Snack]([article-468])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [1][Heißes Gemüse Beiwerk]([article-240])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [1][Kartoffelsalat]([article-234])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [1][Grüner Tee mit Lim. Ingw.]([article-99])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP):   - [2][Killepitsch 2cl]([article-1284])
+2019-11-16 20:00:10 INFO Falter, Frank-Oliver - 200.1(AAOP): finish receipt
+2019-11-16 20:00:11 INFO Falter, Frank-Oliver - 200.1(AAOP): print bon of [12-1342]
+2019-11-16 20:00:11 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 20:00:11 INFO Falter, Frank-Oliver - -1.-1(AAUS): create new receipt
+2019-11-16 20:00:19 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 20:00:19 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 20:00:20 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 20:00:21 INFO Falter, Frank-Oliver: Logged out.
+2019-11-16 20:00:21 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 20:00:25 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 20:00:26 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 20:00:26 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 20:00:26 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 20:00:26 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 20:00:29 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 20:00:32 INFO Öztatiklier, Cemil - 200.1(AAUS): Open receipt.
+2019-11-16 20:00:35 INFO Öztatiklier, Cemil - 200.1(AAUS): Button instantCard on BookingPanel pressed.
+2019-11-16 20:00:35 INFO Öztatiklier, Cemil - 200.1(AAUS): Started instant card payment.
+2019-11-16 20:00:39 INFO Öztatiklier, Cemil - 200.1(AAUS): Card payment aborted.
+2019-11-16 20:00:41 INFO Öztatiklier, Cemil - 200.1(AAUS): Button payment on BookingPanel pressed.
+2019-11-16 20:00:41 INFO Öztatiklier, Cemil - 200.1(AAUS): Opened payment panel.
+2019-11-16 20:00:50 INFO Öztatiklier, Cemil: Button-Icon CARD pressed
+2019-11-16 20:01:32 INFO Öztatiklier, Cemil - 200.1(AAUS): book card: to pay: [44] tip: [0]
+2019-11-16 20:01:32 INFO Öztatiklier, Cemil - 200.1(AAUS): Added guest amount: [1].
+2019-11-16 20:01:40 INFO Öztatiklier, Cemil - 200.1(AAUS): Printed interim bill.
+2019-11-16 20:01:49 INFO Öztatiklier, Cemil - 200.1(AAUS): Leave PaymentPanel to BookingPanel.
+2019-11-16 20:01:51 INFO Öztatiklier, Cemil - 200.1(AAUS): Button payment on BookingPanel pressed.
+2019-11-16 20:01:51 INFO Öztatiklier, Cemil - 200.1(AAUS): Opened payment panel.
+2019-11-16 20:01:52 INFO Öztatiklier, Cemil - 200.1(AAUS): Button Payment on PaymentPanel pressed.
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS): Added guest amount: [2].
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS): book receipt [12-1343] as [BOOKING]
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [1][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [2][Killepitsch 2cl]([article-1284])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [1][Grüner Tee mit Lim. Ingw.]([article-99])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [1][Spinatknödel Snack]([article-468])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [1][Heißes Gemüse Beiwerk]([article-240])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [1][Kartoffelsalat]([article-234])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [1][Vegi-Burger]([article-1260])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [1][Süsskartoffel- Pommes]([article-528])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS):   - [1][Beilagensalat]([article-237])
+2019-11-16 20:01:56 INFO Öztatiklier, Cemil - 200.1(AAUS): finish receipt
+2019-11-16 20:01:57 INFO Öztatiklier, Cemil - 200.1(AAUS): print bon of [12-1343]
+2019-11-16 20:02:01 INFO Öztatiklier, Cemil - 200.1(AAUS): Printed extended bon.
+2019-11-16 20:12:42 INFO Öztatiklier, Cemil - 200.1(AAUS): finalize receipt
+2019-11-16 20:12:42 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 20:12:43 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 20:13:21 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 20:13:21 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 20:23:42 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 20:23:43 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 20:23:43 INFO Ademi, Sofia: Logged in
+2019-11-16 20:23:43 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:23:43 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:23:45 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 20:23:49 INFO Ademi, Sofia - 200.2(AARV): Open receipt.
+2019-11-16 20:23:53 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 20:23:54 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 20:23:55 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:23:55 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:23:57 INFO Ademi, Sofia: Logged out.
+2019-11-16 20:23:57 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 20:24:41 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 20:24:42 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 20:24:42 INFO Ademi, Sofia: Logged in
+2019-11-16 20:24:42 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:24:43 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:24:44 INFO Ademi, Sofia: Logged out.
+2019-11-16 20:24:44 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 20:24:45 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 20:24:46 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 20:24:46 INFO Ademi, Sofia: Logged in
+2019-11-16 20:24:46 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:24:46 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:24:49 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 20:24:51 INFO Ademi, Sofia - 200.2(AARV): Open receipt.
+2019-11-16 20:24:56 INFO Ademi, Sofia - 200.2(AARV): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 20:24:58 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 20:24:58 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:24:58 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:24:59 INFO Ademi, Sofia: Logged out.
+2019-11-16 20:24:59 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 20:28:00 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 20:28:02 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 20:28:02 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 20:28:02 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 20:28:02 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 20:28:15 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 20:28:25 INFO Öztatiklier, Cemil - 200.2(AARV): Open receipt.
+2019-11-16 20:28:38 INFO Öztatiklier, Cemil - 200.2(AARV): add [1] article [Espresso]([article-53]) - [Inhouse] - [STANDARD]
+2019-11-16 20:28:41 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 20:28:41 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 20:28:42 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 20:36:09 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 20:36:09 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 20:38:47 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 20:38:48 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 20:38:48 INFO Ademi, Sofia: Logged in
+2019-11-16 20:38:48 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:38:48 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:38:50 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 20:38:54 INFO Ademi, Sofia - 200.3(AAVX): create new receipt
+2019-11-16 20:39:01 INFO Ademi, Sofia - 200.3(AAVX): add [1] article [Meinklang Burgenland Weiß 0,2l]([article-1076]) - [Inhouse] - [STANDARD]
+2019-11-16 20:39:02 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 20:39:03 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:39:03 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:39:04 INFO Ademi, Sofia: Logged out.
+2019-11-16 20:39:04 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 20:41:34 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 20:41:37 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 20:41:37 INFO Ademi, Sofia: Logged in
+2019-11-16 20:41:37 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:41:37 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:41:40 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 20:41:44 INFO Ademi, Sofia - 200.3(AAVX): Open receipt.
+2019-11-16 20:41:59 INFO Ademi, Sofia - 200.3(AAVX): add [1] article [Bergkäseschnitzel Mahl]([article-1237]) - [Inhouse] - [STANDARD]
+2019-11-16 20:41:59 INFO Ademi, Sofia: Preventing RFID reads for: SideOrderDialog
+2019-11-16 20:42:05 INFO Ademi, Sofia: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 20:42:05 INFO Ademi, Sofia - 200.3(AAVX): Add side orders to article [article-1237].
+2019-11-16 20:42:05 INFO Ademi, Sofia - 200.3(AAVX): Add side order [Heißes Gemüse Beiwerk]([article-240]).
+2019-11-16 20:42:07 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 20:42:08 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 20:42:08 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 20:42:10 INFO Ademi, Sofia: Logged out.
+2019-11-16 20:42:10 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 20:48:19 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 20:48:21 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 20:48:21 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 20:48:21 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 20:48:21 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 20:48:29 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 20:48:43 INFO Öztatiklier, Cemil - 200.2(AARV): Open receipt.
+2019-11-16 20:49:06 INFO Öztatiklier, Cemil - 200.2(AARV): Button payment on BookingPanel pressed.
+2019-11-16 20:49:06 INFO Öztatiklier, Cemil - 200.2(AARV): Opened payment panel.
+2019-11-16 20:49:07 INFO Öztatiklier, Cemil - 200.2(AARV): Button Payment on PaymentPanel pressed.
+2019-11-16 20:49:07 INFO Öztatiklier, Cemil - 200.2(AARV): book cash: to pay: [4.800] tip: [0]
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV): Added guest amount: [1].
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV): book receipt [12-1344] as [BOOKING]
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV):   - [1][Spinatknödel Mahl]([article-469])
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV):   - [1][Espresso]([article-53])
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV):   - [1][Vegi-Burger]([article-1260])
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV):   - [1][Süsskartoffel- Pommes]([article-528])
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV):   - [1][Eintopf Mahl]([article-1113])
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV):   - [6][Schumacher Alt 0,25l]([article-1282])
+2019-11-16 20:49:09 INFO Öztatiklier, Cemil - 200.2(AARV): finish receipt
+2019-11-16 20:49:11 INFO Öztatiklier, Cemil - 200.2(AARV): print bon of [12-1344]
+2019-11-16 20:49:30 INFO Öztatiklier, Cemil - 200.2(AARV): Printed extended bon.
+2019-11-16 20:51:03 INFO Öztatiklier, Cemil - 200.2(AARV): finalize receipt
+2019-11-16 20:51:03 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 20:51:03 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 20:51:09 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 20:51:09 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 21:21:48 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 21:21:49 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 21:21:49 INFO Ademi, Sofia: Logged in
+2019-11-16 21:21:49 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 21:21:50 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 21:21:52 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 21:21:54 INFO Ademi, Sofia - 200.3(AAVX): Open receipt.
+2019-11-16 21:21:57 INFO Ademi, Sofia - 200.3(AAVX): Button payment on BookingPanel pressed.
+2019-11-16 21:21:57 INFO Ademi, Sofia - 200.3(AAVX): Opened payment panel.
+2019-11-16 21:21:59 INFO Ademi, Sofia - 200.3(AAVX): Printed interim bill.
+2019-11-16 21:22:48 INFO Ademi, Sofia: Button CASH pressed
+2019-11-16 21:22:48 INFO Ademi, Sofia - 200.3(AAVX): book cash: to pay: [2.600] tip: [0]
+2019-11-16 21:22:48 INFO Ademi, Sofia - 200.3(AAVX): Added guest amount: [1].
+2019-11-16 21:22:50 INFO Ademi, Sofia - 200.3(AAVX): Button Payment on PaymentPanel pressed.
+2019-11-16 21:22:52 INFO Ademi, Sofia - 200.3(AAVX): Added guest amount: [1].
+2019-11-16 21:22:52 INFO Ademi, Sofia - 200.3(AAVX): book receipt [12-1345] as [BOOKING]
+2019-11-16 21:22:52 INFO Ademi, Sofia - 200.3(AAVX):   - [1][Bergkäseschnitzel Mahl]([article-1237])
+2019-11-16 21:22:52 INFO Ademi, Sofia - 200.3(AAVX):   - [1][Heißes Gemüse Beiwerk]([article-240])
+2019-11-16 21:22:52 INFO Ademi, Sofia - 200.3(AAVX):   - [1][Meinklang Burgenland Weiß 0,2l]([article-1076])
+2019-11-16 21:22:52 INFO Ademi, Sofia - 200.3(AAVX): finish receipt
+2019-11-16 21:22:53 INFO Ademi, Sofia - 200.3(AAVX): print bon of [12-1345]
+2019-11-16 21:24:32 INFO Ademi, Sofia - 200.3(AAVX): finalize receipt
+2019-11-16 21:24:32 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 21:24:33 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 21:24:35 INFO Ademi, Sofia: Logged out.
+2019-11-16 21:24:35 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 21:34:54 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Falter, Frank-Oliver
+2019-11-16 21:34:55 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 21:34:55 INFO Falter, Frank-Oliver: Logged in
+2019-11-16 21:34:55 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 21:34:55 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 21:34:57 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:35:00 INFO Falter, Frank-Oliver - 3000.0(AAAE): Open receipt.
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): book cash: to pay: [2.800] tip: [0]
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): Added guest amount: [1].
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): book receipt [12-1346] as [INSTANT_CANCELLATION]
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [1][PCafe Americano]([article-1199])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [1][A-Schorle 0,4l]([article-92])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [3][PEspresso doppio]([article-1197])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [2][Radler 0,5l]([article-89])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [1][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [1][Schokokuchen im Glas]([article-583])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [2][Augustiner Hell 0,25l]([article-1094])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): finish receipt
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): print bon of [12-1346]
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): cancel receipt [12-1346]
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): book receipt [12-1347] as [INSTANT_CANCELLATION]
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [1][PCafe Americano]([article-1199])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [1][A-Schorle 0,4l]([article-92])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [3][PEspresso doppio]([article-1197])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [2][Radler 0,5l]([article-89])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [1][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [1][Schokokuchen im Glas]([article-583])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI):   - [2][Augustiner Hell 0,25l]([article-1094])
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): finish receipt
+2019-11-16 21:35:04 INFO Falter, Frank-Oliver - 3000.0(AAYI): print bon of [12-1347]
+2019-11-16 21:35:07 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 21:35:07 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 21:35:09 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:35:11 INFO Falter, Frank-Oliver - 3000.1(AAAV): Open receipt.
+2019-11-16 21:35:16 INFO Falter, Frank-Oliver - 3000.1(AAAV): Button payment on BookingPanel pressed.
+2019-11-16 21:35:16 INFO Falter, Frank-Oliver - 3000.1(AAAV): Opened payment panel.
+2019-11-16 21:35:18 INFO Falter, Frank-Oliver: Global discount dialog opened from payment panel
+2019-11-16 21:35:20 INFO Falter, Frank-Oliver - 3000.1(AAAV): set global percentage discount [Systemtest]([discount-1]) - [100]
+2019-11-16 21:35:21 INFO Falter, Frank-Oliver - 3000.1(AAAV): Button Payment on PaymentPanel pressed.
+2019-11-16 21:35:21 INFO Falter, Frank-Oliver - 3000.1(AAAV): book cash: to pay: [0] tip: [0]
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV): Added guest amount: [1].
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV): book receipt [12-1348] as [BOOKING]
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [1][Kaiserschmarrn klassisch Mahl]([article-255])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [1][Münchnerschnitzel Mahl]([article-449])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [1][Pommes Frites]([article-232])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [1][Mayo]([article-227])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [4][PCappuccino]([article-1187])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [2][Rosa Rauschen]([article-120])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [4][Bayerischer Spritz]([article-123])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [5][PCafe Americano]([article-1199])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [1][PEspresso]([article-1196])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [2][PMilchkaffee]([article-1200])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV):   - [1][Brezel]([article-460])
+2019-11-16 21:35:22 INFO Falter, Frank-Oliver - 3000.1(AAAV): finish receipt
+2019-11-16 21:35:24 INFO Falter, Frank-Oliver - 3000.1(AAAV): print bon of [12-1348]
+2019-11-16 21:35:29 INFO Falter, Frank-Oliver - 3000.1(AAAV): finalize receipt
+2019-11-16 21:35:29 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 21:35:29 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 21:35:32 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:35:36 INFO Falter, Frank-Oliver - 220.1(AALT): Open receipt.
+2019-11-16 21:35:42 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:35:42 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 21:35:43 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 21:35:45 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:35:51 INFO Falter, Frank-Oliver - 220.1(AALT): Open receipt.
+2019-11-16 21:36:39 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:36:40 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 21:36:40 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 21:36:41 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:36:44 INFO Falter, Frank-Oliver: Logged out.
+2019-11-16 21:36:44 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 21:37:14 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Falter, Frank-Oliver
+2019-11-16 21:37:15 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 21:37:15 INFO Falter, Frank-Oliver: Logged in
+2019-11-16 21:37:15 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 21:37:16 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 21:37:19 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:37:23 INFO Falter, Frank-Oliver - 3000.0(AAYQ): create new receipt
+2019-11-16 21:37:35 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 21:37:37 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 21:37:38 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 21:37:39 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 21:37:40 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 21:37:40 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 21:37:42 INFO Falter, Frank-Oliver: Logged out.
+2019-11-16 21:37:42 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 21:57:42 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 21:57:43 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 21:57:43 INFO Ademi, Sofia: Logged in
+2019-11-16 21:57:43 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 21:57:43 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 21:57:45 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 21:57:49 INFO Ademi, Sofia - 32.3(AAVJ): Open receipt.
+2019-11-16 21:58:09 INFO Ademi, Sofia - 32.3(AAVJ): add [1] article [Cappuccino]([article-79]) - [Inhouse] - [STANDARD]
+2019-11-16 21:58:10 INFO Ademi, Sofia - 32.3(AAVJ): add [1] article [Cappuccino]([article-79]) - [Inhouse] - [STANDARD]
+2019-11-16 21:58:11 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 21:58:12 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 21:58:12 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 21:58:14 INFO Ademi, Sofia: Logged out.
+2019-11-16 21:58:14 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 22:02:57 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Falter, Frank-Oliver
+2019-11-16 22:02:58 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 22:02:58 INFO Falter, Frank-Oliver: Logged in
+2019-11-16 22:02:58 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 22:02:58 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 22:03:00 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 22:03:02 INFO Falter, Frank-Oliver - 3000.0(AAYQ): Open receipt.
+2019-11-16 22:03:06 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 22:03:06 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 22:03:06 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 22:03:06 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 22:03:07 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Schumacher Alt 0,25l]([article-1282]) - [Inhouse] - [STANDARD]
+2019-11-16 22:03:08 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Radler 0,25l]([article-67]) - [Inhouse] - [STANDARD]
+2019-11-16 22:03:09 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 22:03:29 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 22:03:29 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 22:03:29 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 22:51:38 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 22:51:42 INFO Falter, Frank-Oliver - 3000.0(AAYQ): Open receipt.
+2019-11-16 22:51:52 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Giesinger Lemondrop]([article-1152]) - [Inhouse] - [STANDARD]
+2019-11-16 22:51:53 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Giesinger Lemondrop]([article-1152]) - [Inhouse] - [STANDARD]
+2019-11-16 22:51:54 INFO Falter, Frank-Oliver - 3000.0(AAYQ): add [1] article [Giesinger Lemondrop]([article-1152]) - [Inhouse] - [STANDARD]
+2019-11-16 22:51:55 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 22:51:55 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 22:51:55 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 22:51:56 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 22:51:58 INFO Falter, Frank-Oliver - 3000.0(AAYQ): Open receipt.
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): book cash: to pay: [7.050] tip: [0]
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): Added guest amount: [1].
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): book receipt [12-1349] as [INSTANT_CANCELLATION]
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Kaiserschmarrn klassisch Snack]([article-243])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [3][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Kirsch-Schmarrn Snack]([article-444])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [3][Giesinger Lemondrop]([article-1152])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Schumacher Alt 0,25l]([article-1282])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Schoko-Schmarrn Snack]([article-470])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Radler 0,25l]([article-67])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [5][Schumacher Alt 0,25l]([article-1282])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Augustiner Hell 0,25l]([article-1094])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): finish receipt
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): print bon of [12-1349]
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): cancel receipt [12-1349]
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): book receipt [12-1350] as [INSTANT_CANCELLATION]
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Kaiserschmarrn klassisch Snack]([article-243])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [3][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Kirsch-Schmarrn Snack]([article-444])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [3][Giesinger Lemondrop]([article-1152])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Schumacher Alt 0,25l]([article-1282])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Schoko-Schmarrn Snack]([article-470])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Radler 0,25l]([article-67])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [5][Schumacher Alt 0,25l]([article-1282])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD):   - [1][Augustiner Hell 0,25l]([article-1094])
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): finish receipt
+2019-11-16 22:52:01 INFO Falter, Frank-Oliver - 3000.0(ABCD): print bon of [12-1350]
+2019-11-16 22:52:04 INFO Falter, Frank-Oliver: initialize default receipt
+2019-11-16 22:52:04 INFO Falter, Frank-Oliver - -1.-1(): create new receipt
+2019-11-16 22:52:05 INFO Falter, Frank-Oliver: Show open keys dialog.
+2019-11-16 23:05:38 INFO Falter, Frank-Oliver: Logged out.
+2019-11-16 23:05:38 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 23:05:39 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 23:05:40 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 23:05:40 INFO Ademi, Sofia: Logged in
+2019-11-16 23:05:40 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:05:40 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:05:42 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 23:05:46 INFO Ademi, Sofia - 23.1(AAZB): Open receipt.
+2019-11-16 23:05:51 INFO Ademi, Sofia - 23.1(AAZB): Button payment on BookingPanel pressed.
+2019-11-16 23:05:51 INFO Ademi, Sofia - 23.1(AAZB): Opened payment panel.
+2019-11-16 23:05:53 INFO Ademi, Sofia - 23.1(AAZB): Printed interim bill.
+2019-11-16 23:06:26 INFO Ademi, Sofia: Button-Icon CARD pressed
+2019-11-16 23:06:43 INFO Ademi, Sofia: Button-Icon CARD pressed
+2019-11-16 23:07:10 INFO Ademi, Sofia - 23.1(AAZB): book card: to pay: [108] tip: [0]
+2019-11-16 23:07:10 INFO Ademi, Sofia - 23.1(AAZB): Added guest amount: [1].
+2019-11-16 23:07:19 INFO Ademi, Sofia - 23.1(AAZB): Printed interim bill.
+2019-11-16 23:07:27 INFO Ademi, Sofia - 23.1(AAZB): Button Payment on PaymentPanel pressed.
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB): Added guest amount: [2].
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB): book receipt [12-1351] as [BOOKING]
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Bergkäseschnitzel Snack]([article-1238])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Hanfschnitzel Snack]([article-948])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Knusperschnitzel Snack]([article-929])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Kartoffelsalat]([article-234])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Bayerisches Cordon Bleu Snack]([article-1116])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Schweineschitzel Snack]([article-239])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Bratkartoffeln]([article-433])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [6][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Chili Schnitzel Snack]([article-452])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Münchnerschnitzel Snack]([article-467])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Kurkuma-Schnitzel Snack]([article-1258])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Kalbsschnitzel Snack]([article-247])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB):   - [1][Käsespätzle Snack]([article-1117])
+2019-11-16 23:07:28 INFO Ademi, Sofia - 23.1(AAZB): finish receipt
+2019-11-16 23:07:29 INFO Ademi, Sofia - 23.1(AAZB): print bon of [12-1351]
+2019-11-16 23:07:36 INFO Ademi, Sofia - 23.1(AAZB): finalize receipt
+2019-11-16 23:07:36 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:07:36 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:07:38 INFO Ademi, Sofia: Logged out.
+2019-11-16 23:07:38 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 23:20:34 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 23:20:36 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 23:20:36 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 23:20:36 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 23:20:36 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 23:20:45 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 23:20:56 INFO Öztatiklier, Cemil - 200.1(ABCP): create new receipt
+2019-11-16 23:21:03 INFO Öztatiklier, Cemil - 200.1(ABCP): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 23:21:07 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 23:21:08 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 23:21:08 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 23:22:18 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 23:22:43 INFO Öztatiklier, Cemil - 200.1(ABCP): Open receipt.
+2019-11-16 23:22:48 INFO Öztatiklier, Cemil - 200.1(ABCP): Button instantCash on BookingPanel pressed.
+2019-11-16 23:22:48 INFO Öztatiklier, Cemil - 200.1(ABCP): Started instant cash payment.
+2019-11-16 23:22:48 INFO Öztatiklier, Cemil - 200.1(ABCP): book cash: to pay: [450] tip: [0]
+2019-11-16 23:22:50 INFO Öztatiklier, Cemil - 200.1(ABCP): Added guest amount: [1].
+2019-11-16 23:22:50 INFO Öztatiklier, Cemil - 200.1(ABCP): book receipt [12-1352] as [BOOKING]
+2019-11-16 23:22:50 INFO Öztatiklier, Cemil - 200.1(ABCP):   - [1][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 23:22:50 INFO Öztatiklier, Cemil - 200.1(ABCP): finish receipt
+2019-11-16 23:22:51 INFO Öztatiklier, Cemil - 200.1(ABCP): print bon of [12-1352]
+2019-11-16 23:22:55 INFO Öztatiklier, Cemil - 200.1(ABCP): Exited instant payment to FinalizePanel
+2019-11-16 23:22:57 INFO Öztatiklier, Cemil - 200.1(ABCP): Printed extended bon.
+2019-11-16 23:23:29 INFO Öztatiklier, Cemil - 200.1(ABCP): finalize receipt
+2019-11-16 23:23:29 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 23:23:29 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 23:38:40 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 23:38:40 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 23:38:42 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 23:38:44 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 23:38:44 INFO Ademi, Sofia: Logged in
+2019-11-16 23:38:44 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:38:44 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:38:46 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 23:39:18 INFO Ademi, Sofia - 3000.1(ABCY): create new receipt
+2019-11-16 23:39:22 INFO Ademi, Sofia - 3000.1(ABCY): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 23:39:23 INFO Ademi, Sofia - 3000.1(ABCY): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 23:39:24 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 23:39:24 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:39:25 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:39:26 INFO Ademi, Sofia: Logged out.
+2019-11-16 23:39:26 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 23:46:17 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-16 23:46:20 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 23:46:20 INFO Öztatiklier, Cemil: Logged in
+2019-11-16 23:46:20 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 23:46:20 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 23:46:23 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 23:46:32 INFO Öztatiklier, Cemil - 200.1(ABCZ): create new receipt
+2019-11-16 23:46:39 INFO Öztatiklier, Cemil - 200.1(ABCZ): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 23:46:40 INFO Öztatiklier, Cemil - 200.1(ABCZ): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 23:46:52 INFO Öztatiklier, Cemil - 200.1(ABCZ): Button instantCash on BookingPanel pressed.
+2019-11-16 23:46:52 INFO Öztatiklier, Cemil - 200.1(ABCZ): Started instant cash payment.
+2019-11-16 23:46:52 INFO Öztatiklier, Cemil - 200.1(ABCZ): book cash: to pay: [900] tip: [0]
+2019-11-16 23:46:55 INFO Öztatiklier, Cemil - 200.1(ABCZ): Added guest amount: [1].
+2019-11-16 23:46:55 INFO Öztatiklier, Cemil - 200.1(ABCZ): book receipt [12-1353] as [BOOKING]
+2019-11-16 23:46:55 INFO Öztatiklier, Cemil - 200.1(ABCZ):   - [2][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 23:46:55 INFO Öztatiklier, Cemil - 200.1(ABCZ): finish receipt
+2019-11-16 23:46:55 INFO Öztatiklier, Cemil - 200.1(ABCZ): print bon of [12-1353]
+2019-11-16 23:46:59 INFO Öztatiklier, Cemil - 200.1(ABCZ): Exited instant payment via OK button.
+2019-11-16 23:46:59 INFO Öztatiklier, Cemil - 200.1(ABCZ): finalize receipt
+2019-11-16 23:46:59 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-16 23:46:59 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-16 23:47:00 INFO Öztatiklier, Cemil: Show open keys dialog.
+2019-11-16 23:48:17 INFO Öztatiklier, Cemil: Logged out.
+2019-11-16 23:48:17 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 23:53:54 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 23:53:55 INFO SYSTEM - NO USER: LoginPanel: User inputted wrong PIN.
+2019-11-16 23:53:57 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 23:53:58 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 23:53:58 INFO Ademi, Sofia: Logged in
+2019-11-16 23:53:58 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:53:58 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:54:00 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 23:54:05 INFO Ademi, Sofia - 200.2(ABDC): create new receipt
+2019-11-16 23:54:14 INFO Ademi, Sofia - 200.2(ABDC): add [1] article [Gin and Tonic]([article-151]) - [Inhouse] - [STANDARD]
+2019-11-16 23:54:14 INFO Ademi, Sofia: Preventing RFID reads for: SideOrderDialog
+2019-11-16 23:54:20 INFO Ademi, Sofia - 200.2(ABDC): Add side orders to article [article-151].
+2019-11-16 23:54:33 INFO Ademi, Sofia - 200.2(ABDC): add [1] article [Monaco Wodka 4cl]([article-106]) - [Inhouse] - [STANDARD]
+2019-11-16 23:54:34 INFO Ademi, Sofia - 200.2(ABDC): add [1] article [Monaco Wodka 4cl]([article-106]) - [Inhouse] - [STANDARD]
+2019-11-16 23:54:36 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 23:54:36 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:54:36 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:54:37 INFO Ademi, Sofia: Logged out.
+2019-11-16 23:54:37 INFO SYSTEM - NO USER: Stop preventing RFID reads for: SideOrderDialog
+2019-11-16 23:54:37 INFO SYSTEM - NO USER: Logged out.
+2019-11-16 23:55:06 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-16 23:55:07 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-16 23:55:07 INFO Ademi, Sofia: Logged in
+2019-11-16 23:55:07 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:55:07 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:55:08 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 23:55:16 INFO Ademi, Sofia - -1.-1(): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 23:55:19 INFO Ademi, Sofia - -1.-1(): Button instantCash on BookingPanel pressed.
+2019-11-16 23:55:19 INFO Ademi, Sofia - -1.-1(): Started instant cash payment.
+2019-11-16 23:55:19 INFO Ademi, Sofia - -1.-1(): book cash: to pay: [450] tip: [0]
+2019-11-16 23:55:20 INFO Ademi, Sofia - -1.-1(): Added guest amount: [1].
+2019-11-16 23:55:20 INFO Ademi, Sofia - -1.-1(): book receipt [12-1354] as [BOOKING]
+2019-11-16 23:55:20 INFO Ademi, Sofia - -1.-1():   - [1][Augustiner Hell 0,5l]([article-1124])
+2019-11-16 23:55:20 INFO Ademi, Sofia - -1.-1(): finish receipt
+2019-11-16 23:55:20 INFO Ademi, Sofia - -1.-1(): print bon of [12-1354]
+2019-11-16 23:57:08 INFO Ademi, Sofia - -1.-1(ABDD): Exited instant payment via OK button.
+2019-11-16 23:57:08 INFO Ademi, Sofia - -1.-1(ABDD): finalize receipt
+2019-11-16 23:57:08 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:57:08 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:57:16 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 23:57:22 INFO Ademi, Sofia - 200.1(ABDG): create new receipt
+2019-11-16 23:57:35 INFO Ademi, Sofia - 200.1(ABDG): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 23:57:36 INFO Ademi, Sofia - 200.1(ABDG): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-16 23:57:36 INFO Ademi, Sofia - 200.1(ABDG): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-16 23:58:28 INFO Ademi, Sofia - 200.1(ABDG): add [1] article [Coca Cola 0,33l]([article-1290]) - [Inhouse] - [STANDARD]
+2019-11-16 23:58:29 INFO Ademi, Sofia - 200.1(ABDG): add [1] article [Coca Cola 0,33l]([article-1290]) - [Inhouse] - [STANDARD]
+2019-11-16 23:58:29 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-16 23:58:30 INFO Ademi, Sofia: initialize default receipt
+2019-11-16 23:58:30 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-16 23:58:31 INFO Ademi, Sofia: Logged out.
+2019-11-16 23:58:31 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 00:02:12 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-17 00:02:13 INFO SYSTEM - NO USER: LoginPanel: User inputted wrong PIN.
+2019-11-17 00:02:14 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-17 00:02:15 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 00:02:15 INFO Ademi, Sofia: Logged in
+2019-11-17 00:02:15 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:02:16 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:02:17 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:02:20 INFO Ademi, Sofia - 200.1(ABDG): Open receipt.
+2019-11-17 00:02:25 INFO Ademi, Sofia - 200.1(ABDG): Start key management
+2019-11-17 00:02:28 INFO Ademi, Sofia - 200.3(ABDI): pressed button for payment splitting
+2019-11-17 00:02:32 INFO Ademi, Sofia - 200.1(ABDG): open seat [200.1]
+2019-11-17 00:02:43 INFO Ademi, Sofia - 200.3(ABDI): open all seats
+2019-11-17 00:02:53 INFO Ademi, Sofia - 200.1(ABDG): Moved [3] items to receipt [ABDI] on table [200]:
+2019-11-17 00:02:53 INFO Ademi, Sofia - 200.1(ABDG):    [Coca Cola 0,33l] ([article-1290])
+2019-11-17 00:02:53 INFO Ademi, Sofia - 200.1(ABDG):    [Augustiner Hell 0,5l] ([article-1124])
+2019-11-17 00:02:53 INFO Ademi, Sofia - 200.1(ABDG):    [Augustiner Hell 0,5l] ([article-1124])
+2019-11-17 00:03:18 INFO Ademi, Sofia: press button [Speichern]
+2019-11-17 00:03:19 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:03:19 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:03:20 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:03:25 INFO Ademi, Sofia - 200.0(ABDI): Open receipt.
+2019-11-17 00:03:29 INFO Ademi, Sofia - 200.0(ABDI): Button instantCash on BookingPanel pressed.
+2019-11-17 00:03:29 INFO Ademi, Sofia - 200.0(ABDI): Started instant cash payment.
+2019-11-17 00:03:29 INFO Ademi, Sofia - 200.0(ABDI): book cash: to pay: [1.250] tip: [0]
+2019-11-17 00:03:33 INFO Ademi, Sofia - 200.0(ABDI): Added guest amount: [3].
+2019-11-17 00:03:33 INFO Ademi, Sofia - 200.0(ABDI): book receipt [12-1355] as [BOOKING]
+2019-11-17 00:03:33 INFO Ademi, Sofia - 200.0(ABDI):   - [1][Coca Cola 0,33l]([article-1290])
+2019-11-17 00:03:33 INFO Ademi, Sofia - 200.0(ABDI):   - [2][Augustiner Hell 0,5l]([article-1124])
+2019-11-17 00:03:33 INFO Ademi, Sofia - 200.0(ABDI): finish receipt
+2019-11-17 00:03:34 INFO Ademi, Sofia - 200.0(ABDI): print bon of [12-1355]
+2019-11-17 00:03:34 INFO Ademi, Sofia - 200.0(ABDI): Exited instant payment via OK button.
+2019-11-17 00:03:34 INFO Ademi, Sofia - 200.0(ABDI): finalize receipt
+2019-11-17 00:03:34 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:03:34 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:03:38 INFO Ademi, Sofia: Logged out.
+2019-11-17 00:03:38 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 00:03:46 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-17 00:03:47 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 00:03:47 INFO Ademi, Sofia: Logged in
+2019-11-17 00:03:47 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:03:47 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:03:48 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:03:52 INFO Ademi, Sofia - 200.2(ABDC): Open receipt.
+2019-11-17 00:04:08 INFO Ademi, Sofia - 200.2(ABDC): Button instantCash on BookingPanel pressed.
+2019-11-17 00:04:08 INFO Ademi, Sofia - 200.2(ABDC): Started instant cash payment.
+2019-11-17 00:04:08 INFO Ademi, Sofia - 200.2(ABDC): book cash: to pay: [1.100] tip: [0]
+2019-11-17 00:04:10 INFO Ademi, Sofia - 200.2(ABDC): Added guest amount: [2].
+2019-11-17 00:04:10 INFO Ademi, Sofia - 200.2(ABDC): book receipt [12-1356] as [BOOKING]
+2019-11-17 00:04:10 INFO Ademi, Sofia - 200.2(ABDC):   - [2][Monaco Wodka 4cl]([article-106])
+2019-11-17 00:04:10 INFO Ademi, Sofia - 200.2(ABDC): finish receipt
+2019-11-17 00:04:12 INFO Ademi, Sofia - 200.2(ABDC): print bon of [12-1356]
+2019-11-17 00:04:14 INFO Ademi, Sofia - 200.2(ABDC): Exited instant payment via OK button.
+2019-11-17 00:04:14 INFO Ademi, Sofia - 200.2(ABDC): finalize receipt
+2019-11-17 00:04:14 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:04:14 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:04:16 INFO Ademi, Sofia: Logged out.
+2019-11-17 00:04:16 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 00:08:06 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-17 00:08:10 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 00:08:10 INFO Ademi, Sofia: Logged in
+2019-11-17 00:08:10 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:08:10 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:08:11 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:08:18 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:08:27 INFO Ademi, Sofia - 200.4(ABDP): create new receipt
+2019-11-17 00:08:32 INFO Ademi, Sofia - 200.4(ABDP): add [1] article [Augustiner Hell 0,25l]([article-1094]) - [Inhouse] - [STANDARD]
+2019-11-17 00:08:34 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:08:35 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:08:35 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:08:36 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:08:44 INFO Ademi, Sofia - 200.1(ABDG): Open receipt.
+2019-11-17 00:09:12 INFO Ademi, Sofia - 200.1(ABDG): Button instantCash on BookingPanel pressed.
+2019-11-17 00:09:12 INFO Ademi, Sofia - 200.1(ABDG): Started instant cash payment.
+2019-11-17 00:09:12 INFO Ademi, Sofia - 200.1(ABDG): book cash: to pay: [650] tip: [0]
+2019-11-17 00:09:13 INFO Ademi, Sofia - 200.1(ABDG): Added guest amount: [2].
+2019-11-17 00:09:13 INFO Ademi, Sofia - 200.1(ABDG): book receipt [12-1357] as [BOOKING]
+2019-11-17 00:09:13 INFO Ademi, Sofia - 200.1(ABDG):   - [1][Coca Cola 0,33l]([article-1290])
+2019-11-17 00:09:13 INFO Ademi, Sofia - 200.1(ABDG):   - [1][Augustiner Hell 0,25l]([article-1094])
+2019-11-17 00:09:13 INFO Ademi, Sofia - 200.1(ABDG): finish receipt
+2019-11-17 00:09:15 INFO Ademi, Sofia - 200.1(ABDG): print bon of [12-1357]
+2019-11-17 00:09:16 INFO Ademi, Sofia - 200.1(ABDG): Exited instant payment via OK button.
+2019-11-17 00:09:16 INFO Ademi, Sofia - 200.1(ABDG): finalize receipt
+2019-11-17 00:09:16 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:09:16 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:09:18 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:09:23 INFO Ademi, Sofia - -1.-1(): add [1] article [Augustiner Hell 0,5l]([article-1124]) - [Inhouse] - [STANDARD]
+2019-11-17 00:09:25 INFO Ademi, Sofia - -1.-1(): Button instantCard on BookingPanel pressed.
+2019-11-17 00:09:25 INFO Ademi, Sofia - -1.-1(): Started instant card payment.
+2019-11-17 00:09:26 INFO Ademi, Sofia - -1.-1(): Card payment aborted.
+2019-11-17 00:09:29 INFO Ademi, Sofia - -1.-1(): Button instantCash on BookingPanel pressed.
+2019-11-17 00:09:29 INFO Ademi, Sofia - -1.-1(): Started instant cash payment.
+2019-11-17 00:09:29 INFO Ademi, Sofia - -1.-1(): book cash: to pay: [450] tip: [0]
+2019-11-17 00:09:30 INFO Ademi, Sofia - -1.-1(): Added guest amount: [1].
+2019-11-17 00:09:30 INFO Ademi, Sofia - -1.-1(): book receipt [12-1358] as [BOOKING]
+2019-11-17 00:09:30 INFO Ademi, Sofia - -1.-1():   - [1][Augustiner Hell 0,5l]([article-1124])
+2019-11-17 00:09:30 INFO Ademi, Sofia - -1.-1(): finish receipt
+2019-11-17 00:09:30 INFO Ademi, Sofia - -1.-1(): print bon of [12-1358]
+2019-11-17 00:09:32 INFO Ademi, Sofia - -1.-1(ABDT): Exited instant payment via OK button.
+2019-11-17 00:09:32 INFO Ademi, Sofia - -1.-1(ABDT): finalize receipt
+2019-11-17 00:09:32 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:09:32 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:09:44 INFO Ademi, Sofia: Logged out.
+2019-11-17 00:09:44 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 00:12:10 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-17 00:12:13 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 00:12:13 INFO Öztatiklier, Cemil: Logged in
+2019-11-17 00:12:13 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-17 00:12:13 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-17 00:12:31 INFO Öztatiklier, Cemil: Do cashier balance.
+2019-11-17 00:12:53 INFO Öztatiklier, Cemil: Logged out.
+2019-11-17 00:12:53 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 00:17:37 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Öztatiklier, Cemil
+2019-11-17 00:17:39 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 00:17:39 INFO Öztatiklier, Cemil: Logged in
+2019-11-17 00:17:39 INFO Öztatiklier, Cemil: initialize default receipt
+2019-11-17 00:17:39 INFO Öztatiklier, Cemil - -1.-1(): create new receipt
+2019-11-17 00:17:44 INFO Öztatiklier, Cemil: Do cashier balance.
+2019-11-17 00:18:29 INFO Öztatiklier, Cemil: Logged out.
+2019-11-17 00:18:29 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 00:20:46 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Ademi, Sofia
+2019-11-17 00:20:49 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 00:20:49 INFO Ademi, Sofia: Logged in
+2019-11-17 00:20:49 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:20:49 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:20:51 INFO Ademi, Sofia: Show open keys dialog.
+2019-11-17 00:20:54 INFO Ademi, Sofia - 200.4(ABDP): Open receipt.
+2019-11-17 00:21:06 INFO Ademi, Sofia - 200.4(ABDP): Button instantCash on BookingPanel pressed.
+2019-11-17 00:21:06 INFO Ademi, Sofia - 200.4(ABDP): Started instant cash payment.
+2019-11-17 00:21:06 INFO Ademi, Sofia - 200.4(ABDP): book cash: to pay: [300] tip: [0]
+2019-11-17 00:21:07 INFO Ademi, Sofia - 200.4(ABDP): Added guest amount: [1].
+2019-11-17 00:21:07 INFO Ademi, Sofia - 200.4(ABDP): book receipt [12-1359] as [BOOKING]
+2019-11-17 00:21:07 INFO Ademi, Sofia - 200.4(ABDP):   - [1][Augustiner Hell 0,25l]([article-1094])
+2019-11-17 00:21:07 INFO Ademi, Sofia - 200.4(ABDP): finish receipt
+2019-11-17 00:21:08 INFO Ademi, Sofia - 200.4(ABDP): print bon of [12-1359]
+2019-11-17 00:21:08 INFO Ademi, Sofia - 200.4(ABDP): Exited instant payment via OK button.
+2019-11-17 00:21:08 INFO Ademi, Sofia - 200.4(ABDP): finalize receipt
+2019-11-17 00:21:08 INFO Ademi, Sofia: initialize default receipt
+2019-11-17 00:21:08 INFO Ademi, Sofia - -1.-1(): create new receipt
+2019-11-17 00:21:16 INFO Ademi, Sofia: Do cashier balance.
+2019-11-17 00:24:02 INFO Ademi, Sofia: Logged out.
+2019-11-17 00:24:02 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 00:45:15 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Sarapcioglu, Selcuk
+2019-11-17 00:45:16 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 00:45:16 INFO Sarapcioglu, Selcuk: Logged in
+2019-11-17 00:45:16 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 00:45:16 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 00:45:19 INFO Sarapcioglu, Selcuk: Show open keys dialog.
+2019-11-17 00:45:53 INFO Sarapcioglu, Selcuk - 1.9(ABBA): Open receipt.
+2019-11-17 00:46:59 INFO Sarapcioglu, Selcuk: Show open keys dialog.
+2019-11-17 00:47:00 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 00:47:00 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 00:47:02 INFO Sarapcioglu, Selcuk: Show open keys dialog.
+2019-11-17 00:47:07 INFO Sarapcioglu, Selcuk - 220.1(AALT): Open receipt.
+2019-11-17 00:48:42 INFO Sarapcioglu, Selcuk: Show open keys dialog.
+2019-11-17 00:48:42 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 00:48:42 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 00:48:45 INFO Sarapcioglu, Selcuk: Do cashier balance.
+2019-11-17 01:18:09 INFO Sarapcioglu, Selcuk: Switch to waste booking mode.
+2019-11-17 01:18:09 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 01:18:09 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 01:18:12 INFO Sarapcioglu, Selcuk: Logged out.
+2019-11-17 01:18:12 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 01:18:13 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Schütz, Kristin
+2019-11-17 01:18:14 INFO SYSTEM - NO USER: LoginPanel: User cancelled login.
+2019-11-17 01:18:15 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Sarapcioglu, Selcuk
+2019-11-17 01:18:16 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 01:18:16 INFO Sarapcioglu, Selcuk: Logged in
+2019-11-17 01:18:16 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 01:18:16 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 01:18:19 INFO Sarapcioglu, Selcuk: Show open keys dialog.
+2019-11-17 01:18:22 INFO Sarapcioglu, Selcuk - 203.5(ABAX): Open receipt.
+2019-11-17 01:19:01 INFO Sarapcioglu, Selcuk: Show open keys dialog.
+2019-11-17 01:19:02 INFO Sarapcioglu, Selcuk - 203.5(ABAX): Open receipt.
+2019-11-17 01:19:14 INFO Sarapcioglu, Selcuk - 203.5(ABAX): Button payment on BookingPanel pressed.
+2019-11-17 01:19:14 INFO Sarapcioglu, Selcuk - 203.5(ABAX): Opened payment panel.
+2019-11-17 01:19:16 INFO Sarapcioglu, Selcuk - 203.5(ABAX): Printed interim bill.
+2019-11-17 01:19:21 INFO Sarapcioglu, Selcuk - 203.5(ABAX): Leave PaymentPanel to BookingPanel.
+2019-11-17 01:22:12 INFO Sarapcioglu, Selcuk: Show open keys dialog.
+2019-11-17 01:22:12 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 01:22:12 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 01:22:13 INFO Sarapcioglu, Selcuk: Logged out.
+2019-11-17 01:22:13 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 01:26:48 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Sarapcioglu, Selcuk
+2019-11-17 01:26:49 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 01:26:49 INFO Sarapcioglu, Selcuk: Logged in
+2019-11-17 01:26:49 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 01:26:49 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 01:26:52 INFO Sarapcioglu, Selcuk: Do cashier balance.
+2019-11-17 01:27:00 INFO Sarapcioglu, Selcuk: Logged out.
+2019-11-17 01:27:00 INFO SYSTEM - NO USER: Logged out.
+2019-11-17 01:27:01 INFO SYSTEM - NO USER: LoginPanel: Pressed button for cashier: Sarapcioglu, Selcuk
+2019-11-17 01:27:02 INFO SYSTEM - NO USER: LoginPanel: User inputted correct PIN.
+2019-11-17 01:27:02 INFO Sarapcioglu, Selcuk: Logged in
+2019-11-17 01:27:02 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 01:27:02 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 01:27:04 INFO Sarapcioglu, Selcuk: Show open keys dialog.
+2019-11-17 01:27:11 INFO Sarapcioglu, Selcuk: Open receipt list.
+2019-11-17 01:27:21 INFO Sarapcioglu, Selcuk: initialize default receipt
+2019-11-17 01:27:21 INFO Sarapcioglu, Selcuk - -1.-1(): create new receipt
+2019-11-17 01:29:49 INFO Sarapcioglu, Selcuk: Start cash balance.
+2019-11-17 01:29:57 INFO Sarapcioglu, Selcuk: Setting cash report cutoff time to 17.11.19 01:29:44
+2019-11-17 01:29:57 INFO Sarapcioglu, Selcuk: Setting cash report cutoff time to 17.11.19 01:29:44
+2019-11-17 01:29:57 INFO Sarapcioglu, Selcuk: Setting cash report cutoff time to 17.11.19 01:29:44
+2019-11-17 01:29:58 INFO Sarapcioglu, Selcuk: CashDeskEndDialog: ok-Button pressed
+2019-11-17 01:29:59 INFO Sarapcioglu, Selcuk: CashDeskEndDialog: ok-Button pressed
+2019-11-17 01:30:01 INFO Sarapcioglu, Selcuk: Cleared cash report cutoff time.
+2019-11-17 02:29:54 INFO Sarapcioglu, Selcuk: Informing user of imminent new day.
